@@ -118,6 +118,8 @@
         padding-bottom: 7rem;
     }
 
+    
+
 
 }
 
@@ -128,6 +130,10 @@
 
     .navbar__nav {
         display: none;
+    }
+
+    .navbar__mobile-btn{
+        display: block;
     }
 
     .layout__banner {
